@@ -1,3 +1,1 @@
-# Task Manger Client
-
-## Todo List
+# React Layered Pattern Example
